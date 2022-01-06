@@ -1,0 +1,35 @@
+* {
+
+    box-sizing: border-box;
+}
+
+.menu {
+
+
+    background: rgb(69, 220, 231);
+}
+
+.nome {
+    font-size: 25px;
+    font-family: Bold;
+}
+
+.M {
+    color: hsl(177, 100%, 50%);
+}
+
+.btn {
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+
+    background:hsl(177, 100%, 50%) ;
+}
+
+.rodape{
+
+
+    background:#049DD9 ;
+}
